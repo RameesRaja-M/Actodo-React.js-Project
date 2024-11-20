@@ -22,7 +22,7 @@ JavaScript: Dynamic scripting for interactivity.
 React.js: Front-end library for building user interfaces.
 
 Live Demo:
-[https://actodo-blue.vercel.app/landing]
+https://actodo-blue.vercel.app/
 
 
 
